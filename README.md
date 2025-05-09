@@ -10,7 +10,7 @@ MySQL project analysing global layoff data. Used staging tables to keep raw CSV 
 
 **Charles Pugh**
 
-Google-certified data analyst
+Google-certified Data Analyst
 
 Email: [charlespughtech@gmail.com](mailto:charlespughtech@gmail.com)
 
