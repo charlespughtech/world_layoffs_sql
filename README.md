@@ -58,7 +58,8 @@ Raw data is loaded into a staging table to preserve the original CSV file.
 world_layoffs_sql/
 ├── 1.mysql_data_cleaning_project.sql   # Data cleaning script
 ├── 2.mysql_data_analysis_project.sql   # Exploratory data analysis script
-└── README.md                           # Project overview and instructions
+├── README.md                           # Project overview and instructions
+└── layoffs.csv                         # Raw .csv file
 ```
 
 ---
