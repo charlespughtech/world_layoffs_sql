@@ -124,7 +124,7 @@ Results will be available in the output tables and query results in your MySQL c
 
 ## Contact
 
-For inquiries or data analytics services, please contact:
+For enquiries or data analytics services, please contact:
 
 **Charles Pugh**
 
