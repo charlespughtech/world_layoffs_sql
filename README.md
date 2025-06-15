@@ -89,7 +89,8 @@ Exploratory data analysis is performed in `2.mysql_data_analysis_project.sql` an
 
 ### Key Insights
 
-* **Peak Layoff Period**: Detected a significant spike in layoffs during Q2 2023, primarily driven by large tech companies adjusting headcounts.
+* COVID-19 undoubtably played a role, there was definitely an offset regarding the time it took from the onset of COVID-19 to the height of the layoffs but its impact was immense.
+* **Peak Layoff Period**: Detected a significant spike in layoffs during Q2 2023, primarily driven by large tech companies adjusting headcounts post-covid.
 * **Sector Impact**: The technology sector accounted for over 40% of total layoffs, followed by finance and retail.
 * **Regional Trends**: North America experienced the highest volume of layoff events, with Europe showing a steady but lower rate of layoffs.
 
